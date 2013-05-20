@@ -1,0 +1,564 @@
+// !$*UTF8*$!
+{
+	011774450071097E7F000001 /* libAudioFloatLib */ = {
+		activeExec = 0;
+	};
+	0117744B00710CA77F000001 /* SampleAudioClip.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1454, 1573}}";
+			sepNavSelRange = "{2966, 0}";
+			sepNavVisRange = "{1219, 2685}";
+		};
+	};
+	0117744E00710DAB7F000001 /* AudioEngine.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1391, 819}}";
+			sepNavSelRange = "{430, 0}";
+			sepNavVisRange = "{59, 2245}";
+		};
+	};
+	0117744F00710DAB7F000001 /* AudioEngine.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1024, 7748}}";
+			sepNavSelRange = "{3011, 0}";
+			sepNavVisRange = "{2040, 2254}";
+			sepNavWindowFrame = "{{15, 184}, {1413, 989}}";
+		};
+	};
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Deployment;
+		activeSDKPreference = macosx10.6;
+		activeTarget = 84B7BDAB1079025C00E299A7 /* Envy24AudioDriver (Upgraded) */;
+		codeSenseManager = 84C932A210754525001F7561 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					846,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					991,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 317384739;
+			PBXWorkspaceStateSaveDate = 317384739;
+		};
+		perUserProjectItems = {
+			84AD3F8F119DA5A200521333 /* PBXTextBookmark */ = 84AD3F8F119DA5A200521333 /* PBXTextBookmark */;
+			84AD3F90119DA5A200521333 /* PBXTextBookmark */ = 84AD3F90119DA5A200521333 /* PBXTextBookmark */;
+			84AD3F91119DA5A200521333 /* PBXTextBookmark */ = 84AD3F91119DA5A200521333 /* PBXTextBookmark */;
+			84AE8A1911036DD000ADB872 /* PBXTextBookmark */ = 84AE8A1911036DD000ADB872 /* PBXTextBookmark */;
+			84BD5061119C804900876DA3 /* PBXTextBookmark */ = 84BD5061119C804900876DA3 /* PBXTextBookmark */;
+			84BD5063119C804900876DA3 /* PBXTextBookmark */ = 84BD5063119C804900876DA3 /* PBXTextBookmark */;
+			84BD5067119C804900876DA3 /* PBXTextBookmark */ = 84BD5067119C804900876DA3 /* PBXTextBookmark */;
+			84BD5069119C804900876DA3 /* PBXTextBookmark */ = 84BD5069119C804900876DA3 /* PBXTextBookmark */;
+			84BD506A119C804900876DA3 /* PBXTextBookmark */ = 84BD506A119C804900876DA3 /* PBXTextBookmark */;
+			84BD5071119C804900876DA3 /* PBXTextBookmark */ = 84BD5071119C804900876DA3 /* PBXTextBookmark */;
+			84C65E3F119D968200279D1D /* PBXTextBookmark */ = 84C65E3F119D968200279D1D /* PBXTextBookmark */;
+			84C65E40119D968200279D1D /* PBXTextBookmark */ = 84C65E40119D968200279D1D /* PBXTextBookmark */;
+			84C65E41119D968200279D1D /* PBXTextBookmark */ = 84C65E41119D968200279D1D /* PBXTextBookmark */;
+			84C65E43119D968200279D1D /* PBXTextBookmark */ = 84C65E43119D968200279D1D /* PBXTextBookmark */;
+			84C81C1512EAE9940016BC38 /* PBXTextBookmark */ = 84C81C1512EAE9940016BC38 /* PBXTextBookmark */;
+			84C81C1712EAE9940016BC38 /* PBXTextBookmark */ = 84C81C1712EAE9940016BC38 /* PBXTextBookmark */;
+			84C81C1E12EAEA5B0016BC38 /* PBXTextBookmark */ = 84C81C1E12EAEA5B0016BC38 /* PBXTextBookmark */;
+			84C81C1F12EAEA5B0016BC38 /* XCBuildMessageTextBookmark */ = 84C81C1F12EAEA5B0016BC38 /* XCBuildMessageTextBookmark */;
+			84C81C2012EAEA5B0016BC38 /* PBXTextBookmark */ = 84C81C2012EAEA5B0016BC38 /* PBXTextBookmark */;
+			84C932EF107546EC001F7561 /* PBXTextBookmark */ = 84C932EF107546EC001F7561 /* PBXTextBookmark */;
+			84C9334510754A3F001F7561 /* PBXTextBookmark */ = 84C9334510754A3F001F7561 /* PBXTextBookmark */;
+			84CF5058119D59930073226A /* PBXTextBookmark */ = 84CF5058119D59930073226A /* PBXTextBookmark */;
+			84D72B0F119C8EF0004F0BFE /* PBXTextBookmark */ = 84D72B0F119C8EF0004F0BFE /* PBXTextBookmark */;
+			84D72B16119C8EF0004F0BFE /* PBXTextBookmark */ = 84D72B16119C8EF0004F0BFE /* PBXTextBookmark */;
+			84D72B20119C8F58004F0BFE /* PBXTextBookmark */ = 84D72B20119C8F58004F0BFE /* PBXTextBookmark */;
+			84E56BBC1102253E0055CE5F /* PBXTextBookmark */ = 84E56BBC1102253E0055CE5F /* PBXTextBookmark */;
+		};
+		sourceControlManager = 84C932A110754525001F7561 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	089C1673FE841209C02AAC07 /* Envy24AudioDriver */ = {
+		activeExec = 0;
+	};
+	1A224C3EFF42367911CA2CB7 /* AudioDevice.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1243, 757}}";
+			sepNavSelRange = "{800, 0}";
+			sepNavVisRange = "{0, 1779}";
+		};
+	};
+	1A224C3FFF42367911CA2CB7 /* AudioDevice.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1024, 4966}}";
+			sepNavSelRange = "{1788, 0}";
+			sepNavVisRange = "{0, 1332}";
+			sepNavWindowFrame = "{{15, 615}, {750, 558}}";
+		};
+	};
+	84AD3F7B119DA4C700521333 /* envy24.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = envy24.h;
+		path = "/Users/admin/Downloads/oss-v4.2-buildrc3-src-bsd/kernel/drv/oss_envy24/envy24.h";
+		sourceTree = "<absolute>";
+	};
+	84AD3F8F119DA5A200521333 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84AD3F7B119DA4C700521333 /* envy24.h */;
+		name = "envy24.h: 241";
+		rLen = 9;
+		rLoc = 5227;
+		rType = 0;
+		vrLen = 1432;
+		vrLoc = 4393;
+	};
+	84AD3F90119DA5A200521333 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84C65E45119D968200279D1D /* oss_envy24.c */;
+		name = "oss_envy24.c: 15";
+		rLen = 0;
+		rLoc = 534;
+		rType = 0;
+		vrLen = 1284;
+		vrLoc = 77857;
+	};
+	84AD3F91119DA5A200521333 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84C65E49119D968200279D1D /* envy24_default.c */;
+		name = "envy24_default.c: 637";
+		rLen = 13;
+		rLoc = 17327;
+		rType = 0;
+		vrLen = 1516;
+		vrLoc = 16768;
+	};
+	84AE8A1911036DD000ADB872 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* AudioDevice.h */;
+		name = "AudioDevice.h: 33";
+		rLen = 0;
+		rLoc = 800;
+		rType = 0;
+		vrLen = 1779;
+		vrLoc = 0;
+	};
+	84B7BDAB1079025C00E299A7 /* Envy24AudioDriver (Upgraded) */ = {
+		activeExec = 0;
+	};
+	84B7BDC81079025C00E299A7 /* Info-Envy24AudioDriver__Upgraded_.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 349}, {1070, 824}}";
+		};
+	};
+	84B7BDCA1079025D00E299A7 /* libAudioFloatLib (Upgraded) */ = {
+		activeExec = 0;
+	};
+	84BD5061119C804900876DA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84BD5062119C804900876DA3 /* cs8403.h */;
+		name = "cs8403.h: 161";
+		rLen = 0;
+		rLoc = 5401;
+		rType = 0;
+		vrLen = 1913;
+		vrLoc = 5270;
+	};
+	84BD5062119C804900876DA3 /* cs8403.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = cs8403.h;
+		path = "/Users/admin/Downloads/alsa-driver-1.0.23/alsa-kernel/include/cs8403.h";
+		sourceTree = "<absolute>";
+	};
+	84BD5063119C804900876DA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84BD5064119C804900876DA3 /* cs8427.h */;
+		name = "cs8427.h: 5";
+		rLen = 3;
+		rLoc = 86;
+		rType = 0;
+		vrLen = 2076;
+		vrLoc = 0;
+	};
+	84BD5064119C804900876DA3 /* cs8427.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = cs8427.h;
+		path = "/Users/admin/Downloads/alsa-driver-1.0.23/alsa-kernel/include/cs8427.h";
+		sourceTree = "<absolute>";
+	};
+	84BD5066119C804900876DA3 /* cs8427.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = cs8427.c;
+		path = "/Users/admin/Downloads/alsa-driver-1.0.23/alsa-kernel/i2c/cs8427.c";
+		sourceTree = "<absolute>";
+	};
+	84BD5067119C804900876DA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84BD5068119C804900876DA3 /* i2c.c */;
+		name = "i2c.c: 20";
+		rLen = 0;
+		rLoc = 901;
+		rType = 0;
+		vrLen = 1237;
+		vrLoc = 3581;
+	};
+	84BD5068119C804900876DA3 /* i2c.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = i2c.c;
+		path = "/Users/admin/Downloads/alsa-driver-1.0.23/alsa-kernel/i2c/i2c.c";
+		sourceTree = "<absolute>";
+	};
+	84BD5069119C804900876DA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 85B86BF00E92C6BB00B18780 /* I2C.h */;
+		name = "I2C.h: 22";
+		rLen = 0;
+		rLoc = 653;
+		rType = 0;
+		vrLen = 1007;
+		vrLoc = 0;
+	};
+	84BD506A119C804900876DA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84BD506B119C804900876DA3 /* delta.h */;
+		name = "delta.h: 17";
+		rLen = 0;
+		rLoc = 615;
+		rType = 0;
+		vrLen = 2285;
+		vrLoc = 2788;
+	};
+	84BD506B119C804900876DA3 /* delta.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = delta.h;
+		path = "/Users/admin/Downloads/alsa-driver-1.0.23/alsa-kernel/pci/ice1712/delta.h";
+		sourceTree = "<absolute>";
+	};
+	84BD5070119C804900876DA3 /* ice1712.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = ice1712.c;
+		path = "/Users/admin/Downloads/alsa-driver-1.0.23/alsa-kernel/pci/ice1712/ice1712.c";
+		sourceTree = "<absolute>";
+	};
+	84BD5071119C804900876DA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84BD5072119C804900876DA3 /* ice1712.h */;
+		name = "ice1712.h: 18";
+		rLen = 0;
+		rLoc = 685;
+		rType = 0;
+		vrLen = 1506;
+		vrLoc = 17326;
+	};
+	84BD5072119C804900876DA3 /* ice1712.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ice1712.h;
+		path = "/Users/admin/Downloads/alsa-driver-1.0.23/alsa-kernel/pci/ice1712/ice1712.h";
+		sourceTree = "<absolute>";
+	};
+	84BD5088119C823700876DA3 /* delta.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = delta.c;
+		path = "/Users/admin/Downloads/alsa-driver-1.0.23/alsa-kernel/pci/ice1712/delta.c";
+		sourceTree = "<absolute>";
+	};
+	84C65E3F119D968200279D1D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 85B86BF30E92C6C600B18780 /* regs.h */;
+		name = "regs.h: 156";
+		rLen = 65;
+		rLoc = 6572;
+		rType = 0;
+		vrLen = 3870;
+		vrLoc = 4807;
+	};
+	84C65E40119D968200279D1D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84BD5088119C823700876DA3 /* delta.c */;
+		name = "delta.c: 112";
+		rLen = 0;
+		rLoc = 3278;
+		rType = 0;
+		vrLen = 1707;
+		vrLoc = 3686;
+	};
+	84C65E41119D968200279D1D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84BD5066119C804900876DA3 /* cs8427.c */;
+		name = "cs8427.c: 95";
+		rLen = 1518;
+		rLoc = 2791;
+		rType = 0;
+		vrLen = 1629;
+		vrLoc = 2775;
+	};
+	84C65E43119D968200279D1D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84BD5070119C804900876DA3 /* ice1712.c */;
+		name = "ice1712.c: 16";
+		rLen = 0;
+		rLoc = 703;
+		rType = 0;
+		vrLen = 1644;
+		vrLoc = 66360;
+	};
+	84C65E45119D968200279D1D /* oss_envy24.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = oss_envy24.c;
+		path = "/Users/admin/Downloads/oss-v4.2-buildrc3-src-bsd/kernel/drv/oss_envy24/oss_envy24.c";
+		sourceTree = "<absolute>";
+	};
+	84C65E49119D968200279D1D /* envy24_default.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = envy24_default.c;
+		path = "/Users/admin/Downloads/oss-v4.2-buildrc3-src-bsd/kernel/drv/oss_envy24/envy24_default.c";
+		sourceTree = "<absolute>";
+	};
+	84C81C1512EAE9940016BC38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0117744B00710CA77F000001 /* SampleAudioClip.cpp */;
+		name = "SampleAudioClip.cpp: 53";
+		rLen = 0;
+		rLoc = 2966;
+		rType = 0;
+		vrLen = 2685;
+		vrLoc = 1219;
+	};
+	84C81C1712EAE9940016BC38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* AudioDevice.cpp */;
+		name = "AudioDevice.cpp: 72";
+		rLen = 0;
+		rLoc = 1788;
+		rType = 0;
+		vrLen = 1332;
+		vrLoc = 0;
+	};
+	84C81C1E12EAEA5B0016BC38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 850BB10C0E92D04E00BD103D /* misc.cpp */;
+		name = "misc.cpp: 1336";
+		rLen = 0;
+		rLoc = 39213;
+		rType = 0;
+		vrLen = 1452;
+		vrLoc = 38037;
+	};
+	84C81C1F12EAEA5B0016BC38 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "‘IOMallocContiguous’ is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/IOKit/IOLib.h:116)";
+		fRef = 0117744F00710DAB7F000001 /* AudioEngine.cpp */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 148;
+		rType = 1;
+	};
+	84C81C2012EAEA5B0016BC38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0117744F00710DAB7F000001 /* AudioEngine.cpp */;
+		name = "AudioEngine.cpp: 149";
+		rLen = 0;
+		rLoc = 3011;
+		rType = 0;
+		vrLen = 2254;
+		vrLoc = 2040;
+	};
+	84C932A110754525001F7561 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	84C932A210754525001F7561 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	84C932B1107545AE001F7561 /* misc.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = misc.h;
+		path = /Volumes/Work10.6/Envy24/misc.h;
+		sourceTree = "<absolute>";
+	};
+	84C932EF107546EC001F7561 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84C932B1107545AE001F7561 /* misc.h */;
+		name = "misc.h: 53";
+		rLen = 0;
+		rLoc = 2149;
+		rType = 0;
+		vrLen = 994;
+		vrLoc = 1348;
+	};
+	84C9334510754A3F001F7561 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 85B86BEF0E92C6BB00B18780 /* I2C.cpp */;
+		name = "I2C.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 899;
+		vrLoc = 0;
+	};
+	84CF5058119D59930073226A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84D0208D119C859F00B9E46B /* cs8427.h */;
+		name = "cs8427.h: 93";
+		rLen = 61;
+		rLoc = 4479;
+		rType = 0;
+		vrLen = 4189;
+		vrLoc = 2616;
+	};
+	84D0208D119C859F00B9E46B /* cs8427.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = cs8427.h;
+		path = /Volumes/Work10.6/Envy24/cs8427.h;
+		sourceTree = "<absolute>";
+	};
+	84D72B0F119C8EF0004F0BFE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84D72B10119C8EF0004F0BFE /* compat_22.h */;
+		name = "compat_22.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1636;
+		vrLoc = 18317;
+	};
+	84D72B10119C8EF0004F0BFE /* compat_22.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = compat_22.h;
+		path = "/Users/admin/Downloads/alsa-driver-1.0.23/include/compat_22.h";
+		sourceTree = "<absolute>";
+	};
+	84D72B12119C8EF0004F0BFE /* adriver.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = adriver.h;
+		path = "/Users/admin/Downloads/alsa-driver-1.0.23/include/adriver.h";
+		sourceTree = "<absolute>";
+	};
+	84D72B16119C8EF0004F0BFE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84D72B17119C8EF0004F0BFE /* asoundef.h */;
+		name = "asoundef.h: 32";
+		rLen = 8825;
+		rLoc = 1319;
+		rType = 0;
+		vrLen = 2842;
+		vrLoc = 8182;
+	};
+	84D72B17119C8EF0004F0BFE /* asoundef.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = asoundef.h;
+		path = "/Users/admin/Downloads/alsa-driver-1.0.23/alsa-kernel/include/asoundef.h";
+		sourceTree = "<absolute>";
+	};
+	84D72B20119C8F58004F0BFE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84D72B12119C8EF0004F0BFE /* adriver.h */;
+		name = "adriver.h: 1548";
+		rLen = 0;
+		rLoc = 44571;
+		rType = 0;
+		vrLen = 1267;
+		vrLoc = 44004;
+	};
+	84E56BBC1102253E0055CE5F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0117744E00710DAB7F000001 /* AudioEngine.h */;
+		name = "AudioEngine.h: 21";
+		rLen = 0;
+		rLoc = 430;
+		rType = 0;
+		vrLen = 2245;
+		vrLoc = 59;
+	};
+	850BB10C0E92D04E00BD103D /* misc.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {949, 28171}}";
+			sepNavSelRange = "{40715, 0}";
+			sepNavVisRange = "{40824, 837}";
+			sepNavWindowFrame = "{{15, 184}, {1413, 989}}";
+		};
+	};
+	85B86BE70E92C65600B18780 /* DriverData.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1116, 2080}}";
+			sepNavSelRange = "{2958, 18446744073709551615}";
+			sepNavVisRange = "{2572, 945}";
+		};
+	};
+	85B86BEF0E92C6BB00B18780 /* I2C.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1024, 3289}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 899}";
+		};
+	};
+	85B86BF00E92C6BB00B18780 /* I2C.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1243, 753}}";
+			sepNavSelRange = "{653, 0}";
+			sepNavVisRange = "{0, 1007}";
+			sepNavWindowFrame = "{{15, 184}, {1413, 989}}";
+		};
+	};
+	85B86BF30E92C6C600B18780 /* regs.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1030, 3874}}";
+			sepNavSelRange = "{6572, 65}";
+			sepNavVisRange = "{4807, 3870}";
+		};
+	};
+}
